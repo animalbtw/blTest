@@ -1,0 +1,10 @@
+#number1, #number2 { 
+    -moz-appearance: textfield;
+  }
+#number1::-webkit-inner-spin-button, #number2::-webkit-inner-spin-button { 
+    display: none;
+  }
+
+#colorChanger, #res {
+    margin-top: 20px;
+}
